@@ -1,0 +1,6 @@
+*.vcxproj
+*.vcxproj.*
+*.sln
+/libpng.sdf
+/libpng.sym
+/libpng.vers
